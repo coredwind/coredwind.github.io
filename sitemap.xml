@@ -2,10 +2,6 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://coredwind.github.io/diary/</loc><lastmod>2022-06-24T16:00:08&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://coredwind.github.io/</loc><lastmod>2022-06-24T16:00:08&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://coredwind.github.io/diary/%E5%8F%91%E5%B8%83%E6%97%A5%E5%BF%97%E6%B5%8B%E8%AF%95/</loc><lastmod>2022-06-24T16:00:08&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://coredwind.github.io/posts/</loc><lastmod>2022-06-24T08:34:51&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://coredwind.github.io/%E5%8F%91%E5%B8%83%E6%96%87%E7%AB%A0%E6%B5%8B%E8%AF%95/</loc><lastmod>2022-06-24T08:34:51&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://coredwind.github.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://coredwind.github.io/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://coredwind.github.io/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
