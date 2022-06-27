@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://coredwind.github.io/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/page/</loc>
+    <loc>https://coredwind.github.io/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/archives/</loc>
+    <loc>https://coredwind.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://coredwind.github.io/categories/</loc>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://coredwind.github.io/tags/</loc>
   </url><url>
-    <loc>https://example.com/search/</loc>
+    <loc>https://coredwind.github.io/search/</loc>
   </url><url>
-    <loc>https://example.com/%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B/</loc>
+    <loc>https://coredwind.github.io/%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B/</loc>
   </url>
 </urlset>
