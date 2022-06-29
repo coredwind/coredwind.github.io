@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>JiangYuanLong</title>
-        <link>https://coredwind.github.io/</link>
-        <description>Recent content on JiangYuanLong</description>
+        <title>博客 on JiangYuanLong</title>
+        <link>https://coredwind.github.io/tags/%E5%8D%9A%E5%AE%A2/</link>
+        <description>Recent content in 博客 on JiangYuanLong</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-CN</language>
-        <lastBuildDate>Tue, 28 Jun 2022 17:16:42 +0800</lastBuildDate><atom:link href="https://coredwind.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 28 Jun 2022 17:16:42 +0800</lastBuildDate><atom:link href="https://coredwind.github.io/tags/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>从零开始创建自己的博客网站</title>
         <link>https://coredwind.github.io/p/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E5%88%9B%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2%E7%BD%91%E7%AB%99/</link>
         <pubDate>Tue, 28 Jun 2022 17:16:42 +0800</pubDate>
@@ -204,30 +204,6 @@
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;在完成上述所有步骤之后，等待数分钟，即可访问自己的博客了&lt;/p&gt;
 </description>
-        </item>
-        <item>
-        <title>文章归档</title>
-        <link>https://coredwind.github.io/archives/</link>
-        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://coredwind.github.io/archives/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>词汇检索</title>
-        <link>https://coredwind.github.io/search/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://coredwind.github.io/search/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>个人简介</title>
-        <link>https://coredwind.github.io/%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://coredwind.github.io/%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B/</guid>
-        <description></description>
         </item>
         
     </channel>
